@@ -1,0 +1,1 @@
+To check if a year is leap we need to check if is divisible by 4 and 400 but not by 100.
